@@ -1,4 +1,4 @@
-  <h1 align="center">Motor Controll Using Raspberry Pi</h1>
+  <h1 align="center">Motor Control Using Raspberry Pi</h1>
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
