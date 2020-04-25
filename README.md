@@ -1,4 +1,4 @@
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Motor Controll Using Raspberry Pi</h3>
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
