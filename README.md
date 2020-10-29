@@ -28,6 +28,9 @@ For this, I’ll be using the L298N Motor Driver Module
 ### Installation
 
 1. Make connections as shown in diagram in image
+
+![image info](./Connections.jpg)
+
 2. Connect the negative wire to raspberry pi zero GND pin
 3. Connect the motors to the driver (No polarity you can connect any how...functionality may vary according to the connection)
 4. Make a new file in raspberry pi
